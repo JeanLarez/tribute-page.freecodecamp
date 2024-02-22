@@ -16,7 +16,7 @@ Este proyecto está basado en el [proyecto original de Free Code Camp](https://t
 
 ## Despliegue
 
-El proyecto se ha desplegado en GitHub Pages y se puede acceder a él en el siguiente enlace: [Tribute Page - Dr. Norman Borlaug](https://miusuario.github.io/tribute-page).
+El proyecto se ha desplegado en GitHub Pages y se puede acceder a él en el siguiente enlace: [Tribute Page - Dr. Norman Borlaug](https://jeanlarez.github.io/tribute-page.freecodecamp/).
 
 ## Instrucciones para Visualizar el Proyecto
 
