@@ -1,0 +1,69 @@
+#main {
+    background-color: #dedede92;
+    margin: 30px 2px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  
+  #title,
+  #description,
+  #img-caption {
+    text-align: center;
+  }
+  
+  #title {
+    padding-top: 48px;
+    font-size: 2.6em;
+    font-weight: 500;
+  }
+  
+  p:nth-of-type(1) {
+    padding-bottom: 4px;
+  }
+  
+  figure {
+    width: 98%;
+    background-color: white;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #image, #img-caption {
+    max-width: 100%;
+  }
+  
+  #img-caption {
+    padding: 20px 0;
+  }
+  
+  #biografy {
+    max-width: 550px;
+    margin: 0 auto;
+  }
+  
+  #biografy #headline {
+    text-align: center;
+    padding: 30px 0;
+  }
+  
+  #biografy ul li,
+  blockquote {
+    padding-bottom: 8px;
+    line-height: 28px;
+  }
+  
+  #biografy ul {
+    padding-bottom: 30px;
+  }
+  
+  blockquote {
+    font-style: italic;
+  }
+  
+  h3:nth-last-child(1) {
+    text-align: center;
+    padding: 30px 0;
+  }
